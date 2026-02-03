@@ -17,7 +17,7 @@ def resource_path(relative_path):
 # ========== Google Sheets API 설정 ==========
 
 # 서비스 계정 키 파일 경로
-KEY_FILE = resource_path('google_sheet_key/renewal-bot-463605-b8f41de8fbdb.json')
+KEY_FILE = resource_path('resources/keys/renewal-bot-463605-b8f41de8fbdb.json')
 
 # API 권한 범위
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
