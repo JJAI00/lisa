@@ -16,7 +16,7 @@ def resource_path(relative_path):
 
 # 구글 시트 접속 정보
 SCRIPT_DIR     = os.path.dirname(os.path.abspath(__file__))
-KEY_FILE       = resource_path('google_sheet_key/renewal-bot-463605-b8f41de8fbdb.json')
+KEY_FILE       = resource_path('resources/keys/renewal-bot-463605-b8f41de8fbdb.json')
 SCOPES         = ['https://www.googleapis.com/auth/spreadsheets']
 LOG_SHEET_ID   = '1llolEKlleT6Cve_M5Qt_CO_JDxQczIKBMqL8fj5vfSk'
 LOG_SHEET_NAME = 'Sheet1'
