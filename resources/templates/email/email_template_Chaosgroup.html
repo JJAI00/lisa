@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+    <title>라이선스 리뉴얼 안내</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #f4f7f9;
+            font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 40px auto;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .header {
+            position: relative;
+            height: 200px;
+            background-image: url('https://example.com/renewal-banner.jpg');
+            background-size: cover;
+            background-position: center;
+        }
+        .header::after {
+            content: "라이선스 리뉴얼 안내";
+            position: absolute;
+            bottom: 20px;
+            left: 20px;
+            font-size: 24px;
+            font-weight: bold;
+            color: #ffffff;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+        }
+        .content {
+            padding: 30px 20px;
+            line-height: 1.6;
+            font-size: 13pt;
+        }
+        .content p {
+            margin: 0 0 16px;
+        }
+        .info-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        .info-table th,
+        .info-table td {
+            padding: 12px 15px;
+            text-align: left;
+        }
+        .info-table th {
+            background-color: #4CAF50;
+            color: #ffffff;
+            font-weight: normal;
+        }
+        .info-table tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .cta-button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 24px;
+            background-color: #4CAF50;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 12pt;
+        }
+        .footer {
+            padding: 20px;
+            font-size: 10pt;
+            color: #777777;
+            text-align: center;
+            border-top: 1px solid #e0e0e0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header"></div>
+        <div class="content">
+            <p>안녕하세요, <strong>{name}</strong>님.</p>
+            <p>큐브렉스 김한경입니다.</p>
+            <p>귀사 <strong>{customer}</strong>에서 사용 중이신 아래 제품의 라이선스 만료 예정일을 안내드립니다.</p>
+
+            <table class="info-table">
+                <thead>
+                    <tr>
+                        <th>고객사명</th>
+                        <th>제품명</th>
+                        <th>수량</th>
+                        <th>만료일</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>{customer}</td>
+                        <td>{product}</td>
+                        <td>{qty}</td>
+                        <td>{expiry}</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <p>리뉴얼 진행이나 기타 문의사항이 있으시면<br>
+               <a href="mailto:customer@qvrex.co.kr">customer@qvrex.co.kr</a>로 언제든지 회신 부탁드립니다.</p>
+
+            <a href="https://qvrex.co.kr/renewal" class="cta-button">리뉴얼 바로가기</a>
+        </div>
+        <div class="footer">
+            © 2025 QVREX Co., Ltd. All rights reserved.<br>
+            본 메일은 발신 전용입니다.
+        </div>
+    </div>
+</body>
+</html>

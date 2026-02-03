@@ -1,0 +1,7 @@
+pyinstaller --noconsole --onefile --icon=design/lisa.ico ^  --add-data "design;design" ^  --add-data "google_sheet_key;google_sheet_key" ^  --add-data "email_temp;email_temp" ^  --add-data "quote;quote" ^  --add-data "quote_email_temp;quote_email_temp" ^  --add-data "VERSION.txt;." ^    renewal_gui.py
+
+
+pyinstaller --console --onefile ^  --add-data "google_sheet_key;google_sheet_key" ^  renewal_gui.py
+
+
+pyinstaller --icon=design/lisa.ico --noconsole --noconfirm --onefile --name LISA ^  --add-data "design;design" ^  renewal_gui.py

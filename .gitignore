@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and cache
+*.log
+logs/
+data/cache/
+data/logs/
+
+# Credentials (중요!)
+resources/keys/*.json
+*.json.bak
+
+# Temporary files
+*.tmp
+*.temp
+temp_*.py
+fix_imports.py
+
+# Backup folders
+이전 파일/
+
+# Build artifacts
+*.exe
+*.spec
+
+# OneDrive sync files
+~$*
+.~*google_sheet_key/

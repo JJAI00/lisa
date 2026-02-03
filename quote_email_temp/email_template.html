@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body style="font-family: 'Malgun Gothic', '맑은 고딕', sans-serif; font-size: 10pt;">
+
+    <p>안녕하세요, <strong>{name}</strong>님.</p>
+
+    <p>큐브렉스 김한경입니다.</p>
+
+    <p>귀사 <strong>{customer}</strong>에서 사용 중이신 아래 제품의 라이선스 만료 예정일을 안내드립니다.</p>
+
+    <table border="1" cellpadding="6" cellspacing="0" style="border-collapse: collapse; font-size: 10pt;">
+        <tr style="background-color: #f2f2f2;">
+            <th>고객사명</th>
+            <th>제품명</th>
+            <th>수량</th>
+            <th>만료일</th>
+        </tr>
+        <tr>
+            <td>{customer}</td>
+            <td>{product}</td>
+            <td>{qty}</td>
+            <td>{expiry}</td>
+        </tr>
+    </table>
+
+    <p>리뉴얼 진행이나 기타 문의사항이 있으시면 customer@qvrex.co.kr로 언제든지 회신 부탁드립니다.</p>
+
+    <p>감사합니다.</p>
+
+</body>
+</html>

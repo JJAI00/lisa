@@ -1,0 +1,211 @@
+HOST <server_name> 78acc03c58f1 4101
+ISV foundry
+LICENSE foundry nuke_i 2024.1210 permanent 1 share=h min_timeout=30
+  start=30-jun-2025 issuer=sf
+  contract=V1:3b70c488-07ad-4b9c-86bb-d086a4f6976f issued=30-jun-2025
+  replace options=97e _ck=06d627d906 sig="60PG4580KYXHW2DN6HCUQJP4YJB
+  1BAVXUP230YH608A6KVQS0013S7S5G87BQ23KGNDVBS0NPB1G"
+
+HOST <server_name> 78acc03c58f1 4101
+ISV foundry
+LICENSE foundry nuke_i 2025.1210 permanent 1 share=h min_timeout=30
+  start=30-jun-2025 issuer=sf
+  contract=V1:7461446b-a8a6-4f59-9689-3c1a0e0c88cf issued=30-jun-2025
+  replace options=97e _ck=07d6278c05 sig="60PG451Q6VNRYNXJGD0GN1SY3MK
+  RWUCXJCCF4X022M0AHX4G22MDX7QAN70V7H95G85EARURJRB0"
+
+LICENSE foundry nukexassist_i 2025.1210 10-dec-2025 2 share=h
+  min_timeout=30 start=30-jun-2025 issuer=sf
+  contract=V1:7461446b-a8a6-4f59-9689-3c1a0e0c88cf issued=30-jun-2025
+  replace options=32b _ck=fcd7286e69 sig="60PG4580GRHVFYEEW1C0CWHE6E5
+  07EWRDX4FRTKR08A025KJ5641J8RHTRG41CBJUT6SCUJYKFYG"
+
+LICENSE foundry nukex_i 2025.1210 permanent 1 share=h min_timeout=30
+  start=30-jun-2025 issuer=sf
+  contract=V1:7461446b-a8a6-4f59-9689-3c1a0e0c88cf issued=30-jun-2025
+  replace options=e88 _ck=7fd69fb068 sig="60PG4580N2QP5DJ7VNMVD3QYMTK
+  MU6AVXWTGSB6308A5PNXC7MVVMN6PK9SG2VSUR6H97YERTMNG"
+
+LICENSE foundry nukestudio_i 2025.1210 permanent 1 share=h
+  min_timeout=30 start=30-jun-2025 issuer=sf
+  contract=V1:7461446b-a8a6-4f59-9689-3c1a0e0c88cf issued=30-jun-2025
+  replace options=327 _ck=9fd686d23d sig="60PG450HM722SFSQPS7XP7JNRGB
+  6DPJJ7NH08VR22M0A5KKHKQFAT89WYJKVGTNR3JNG3J68BW8G"
+
+HOST <server_name> 78acc03c58f1 4101
+ISV foundry
+LICENSE foundry hieroplayer_i 2025.1210 10-dec-2025 2 share=h
+  min_timeout=30 start=30-jun-2025 issuer=sf
+  contract=V1:83a80c0e-5d74-43c1-806c-e692aa8fdb5e issued=30-jun-2025
+  replace options=7ae _ck=ded7403b5d sig="60Q04580NG6EXJ5JNKARGYJWSM6
+  EU8P40K4UKSAK08AG1KTBES22391KYJYT9JXFH03H4DQS2K21E"
+
+LICENSE foundry nuke_i 2025.1210 permanent 2 share=h min_timeout=30
+  start=30-jun-2025 issuer=sf
+  contract=V1:83a80c0e-5d74-43c1-806c-e692aa8fdb5e issued=30-jun-2025
+  replace options=97e _ck=07d727d403 sig="60PG451HH6Q1AJYB22X35S9F5V5
+  3KF10YABNUH022M0D7JCYPY8G3VA0G3053CVBANHWD8BG1J7G"
+
+LICENSE foundry nukexassist_i 2025.1210 10-dec-2025 4 share=h
+  min_timeout=30 start=30-jun-2025 issuer=sf
+  contract=V1:83a80c0e-5d74-43c1-806c-e692aa8fdb5e issued=30-jun-2025
+  replace options=32b _ck=fcd928b365 sig="60PG4580JHKNJFY97R6EPAD4VNV
+  T470AJNXEAEDX08A6G1MKCG7VWBFQF3P1A94UBVB2WJUC7CQG"
+
+LICENSE foundry nukex_i 2025.1210 permanent 2 share=h min_timeout=30
+  start=30-jun-2025 issuer=sf
+  contract=V1:83a80c0e-5d74-43c1-806c-e692aa8fdb5e issued=30-jun-2025
+  replace options=e88 _ck=7fd79feda0 sig="60PG4580KWU6U4PDARDWP180XH2
+  SKJ04DS8XRHPM08A1UEHH5H4B43HBMS1Q4ECE84GM4P4SJUFG"
+
+HOST <server_name> 78acc03c58f1 4101
+ISV foundry
+LICENSE foundry mari_i 2025.1215 permanent 1 share=h min_timeout=30
+  start=6-jan-2025 issuer=sf
+  contract=V1:fa506f36-f4ea-4994-96b6-6be133c44f99 issued=6-jan-2025
+  replace options=237 _ck=02d66264ce sig="60PG450MHXUDJEC4F22JPV0EV37
+  U9RS9KTCWNGG22M0D18U02TQ6SWS46HBSG267UEG64JHDK570"
+
+HOST <server_name> 78acc03c58f1 4101
+ISV foundry
+LICENSE foundry hieroplayer_i 2025.1215 15-dec-2025 1 share=h
+  min_timeout=30 start=30-jun-2025 issuer=sf
+  contract=V1:43af363f-86c4-456a-b44c-fec211d70e10 issued=30-jun-2025
+  replace options=21b _ck=e8d608be66 sig="60P04532BCEENHVCRXA93V0PJCN
+  N5R1CK8Q77QR22GUMSRJK1X5343GYBQFHDYJ6HCP5VC0WBG"
+
+LICENSE foundry nuke_i 2025.1215 permanent 1 share=h min_timeout=30
+  start=30-jun-2025 issuer=sf
+  contract=V1:43af363f-86c4-456a-b44c-fec211d70e10 issued=30-jun-2025
+  replace options=97e _ck=0cd62711f8 sig="60P04533N0CYPU4FS98N2P4K2JB
+  D2J0B743FFTR22H52K070CXG35UHY7TW8YN24VXCDYN8Y5R"
+
+LICENSE foundry nukexassist_i 2025.1215 15-dec-2025 2 share=h
+  min_timeout=30 start=30-jun-2025 issuer=sf
+  contract=V1:43af363f-86c4-456a-b44c-fec211d70e10 issued=30-jun-2025
+  replace options=97d _ck=06d73526d1 sig="60P04529CDRR0DK99AP9HW802NJ
+  HEQP117P3U9G22HC55UBDECMMNPV63GMKDFMPND3RDHPDN8"
+
+LICENSE foundry nukex_i 2025.1215 permanent 1 share=h min_timeout=30
+  start=30-jun-2025 issuer=sf
+  contract=V1:43af363f-86c4-456a-b44c-fec211d70e10 issued=30-jun-2025
+  replace options=e88 _ck=84d69f9e43 sig="60P0451G5G78070RF338RG3FDK7
+  X6PS74V7TUWR22GW9KHFU9V7MURRSPCBMW1BQ88UQ76EB6G"
+
+HOST <server_name> 78acc03c58f1 4101
+ISV foundry
+LICENSE foundry hiero_i 2026.0102 permanent 2 share=h min_timeout=30
+  start=8-apr-2025 issuer=sf
+  contract=V1:ec854f91-7f69-41f6-bfe8-5338e6ae276a issued=8-apr-2025
+  replace options=a9a _ck=6bd7478309 sig="60PG4580T2D4SJ3Y3EBSYDCQ7GD
+  MGNMDXGNDQ6T208A6J5N8KJU4KFESMR639SR3BCGDRY3DGMC0"
+
+HOST <server_name> 78acc03c58f1 4101
+ISV foundry
+LICENSE foundry hiero_i 2026.0328 permanent 1 share=h min_timeout=30
+  start=8-apr-2025 issuer=sf
+  contract=V1:59471549-5f34-455d-9aed-db4977f5c3eb issued=8-apr-2025
+  replace options=a9a _ck=75d647fc3a sig="60P04520UC76U1WSUX44FCN3W0N
+  9T4XJS3725E022H57DDTH1A7HADY3GMCM0GJJBV0XKM5C18"
+
+HOST <server_name> 78acc03c58f1 4101
+ISV foundry
+LICENSE foundry nuke_i 2026.0328 permanent 1 share=h min_timeout=30
+  start=30-jun-2025 issuer=sf
+  contract=V1:61256f78-e000-476f-b1b7-b5576b346649 issued=30-jun-2025
+  replace options=97e _ck=11d627f4ff sig="60Q04580GWXJY5CFSS444DTEK58
+  4N4TC9CE7G3DM08AG1GXS6RDR6PURUYU9NKDHXKSWEG1BDU4AE"
+
+LICENSE foundry nukexassist_i 2026.0328 28-mar-2026 2 share=h
+  min_timeout=30 start=30-jun-2025 issuer=sf
+  contract=V1:61256f78-e000-476f-b1b7-b5576b346649 issued=30-jun-2025
+  replace options=4ec _ck=24d75d8507 sig="60PG450G1K704M3N137KFQMV5WR
+  QPMPYD2S3YQ822M0BKJBF4AA2WTA5CDYKG2QBEFGKJXPP7HKG"
+
+LICENSE foundry nukex_i 2026.0328 permanent 1 share=h min_timeout=30
+  start=30-jun-2025 issuer=sf
+  contract=V1:61256f78-e000-476f-b1b7-b5576b346649 issued=30-jun-2025
+  replace options=e88 _ck=89d69fd03e sig="60PG4580MC6BPUTW7TBB51Y6QWV
+  TDGTNVBVTDNNN08A6H8V70SAJ6MN4KFSFGFWBGPPVNAS1JAFG"
+
+LICENSE foundry nukestudio_i 2026.0328 permanent 1 share=h
+  min_timeout=30 start=30-jun-2025 issuer=sf
+  contract=V1:61256f78-e000-476f-b1b7-b5576b346649 issued=30-jun-2025
+  replace options=327 _ck=a9d6865f3d sig="60PG4580MP562MG0X4BRBHRFENJ
+  WGJJ7AS66Y8UD08A1D0D23EY5KPUB3XC2CCH26T1SCNAR8X30"
+
+HOST <server_name> 78acc03c58f1 4101
+ISV foundry
+LICENSE foundry hieroplayer_i 2026.0328 28-mar-2026 5 share=h
+  min_timeout=30 start=30-jun-2025 issuer=sf
+  contract=V1:849c4bc2-c86b-4496-8b55-35d7a5e1201f issued=30-jun-2025
+  replace options=dda _ck=06da6c6e5f sig="60PG452BDNW524J2E51VENUS4G8
+  A5GMA6U8YRE822M0CPFQSSTDVNXWCMP69E1T564MUBY9RTBVG"
+
+LICENSE foundry nuke_i 2026.0328 permanent 5 share=h min_timeout=30
+  start=30-jun-2025 issuer=sf
+  contract=V1:849c4bc2-c86b-4496-8b55-35d7a5e1201f issued=30-jun-2025
+  replace options=97e _ck=11da27ef5b sig="60Q04580S2F6TRTYSHD1NFCC4UK
+  JQAC73PCRVBCQ08AG1M7VKTKQBAYMJK55V126S5NYWDT3J7K1P"
+
+LICENSE foundry nukexassist_i 2026.0328 28-mar-2026 10 share=h
+  min_timeout=30 start=30-jun-2025 issuer=sf
+  contract=V1:849c4bc2-c86b-4496-8b55-35d7a5e1201f issued=30-jun-2025
+  replace options=4ec _ck=24065d8bff sig="60P0452G19GQQB5CFSF3BQ1851H
+  GG3EDA769KE022H7D40U6DCMVVKEM8CPN6P5D3P79N4S54M"
+
+LICENSE foundry nukex_i 2026.0328 permanent 5 share=h min_timeout=30
+  start=30-jun-2025 issuer=sf
+  contract=V1:849c4bc2-c86b-4496-8b55-35d7a5e1201f issued=30-jun-2025
+  replace options=e88 _ck=89da9f6641 sig="60P0453WUPDV0NYJWK4H77A49WX
+  X5KVNERXS09R22HHB8PC0TKD5E09D03NUGJQMJ9JBG22TY4"
+
+HOST <server_name> 78acc03c58f1 4101
+ISV foundry
+LICENSE foundry hieroplayer_i 2026.0602 2-jun-2026 2 share=h
+  min_timeout=30 start=30-jun-2025 issuer=sf
+  contract=V1:49c54557-b19c-4380-a2bb-db65512ae6de issued=30-jun-2025
+  replace options=0bd _ck=d6d7398e3e sig="60P0451FTK8G3URSDKUTD8E6G3K
+  368KWHTPTUP022GYAGJHERKY6QC82MQ03462NQTR4UD6GFR"
+
+LICENSE foundry nuke_i 2026.0602 permanent 2 share=h min_timeout=30
+  start=30-jun-2025 issuer=sf
+  contract=V1:49c54557-b19c-4380-a2bb-db65512ae6de issued=30-jun-2025
+  replace options=97e _ck=0cd7275905 sig="60Q04580SYKV81ERFHGS490A0TY
+  TJQ9DXYRS1N4U08AG1KCV1M7EDA48G138T51746BE2VB7TCCCT"
+
+LICENSE foundry nukexassist_i 2026.0602 2-jun-2026 4 share=h
+  min_timeout=30 start=30-jun-2025 issuer=sf
+  contract=V1:49c54557-b19c-4380-a2bb-db65512ae6de issued=30-jun-2025
+  replace options=120 _ck=f4d9f44338 sig="60P0452BX9N6243NRQS0TKAP2BD
+  49BMME4A3F7G22GWST0E3AM1NCR217CDPHH599X8PAKK3ER"
+
+LICENSE foundry nukex_i 2026.0602 permanent 2 share=h min_timeout=30
+  start=30-jun-2025 issuer=sf
+  contract=V1:49c54557-b19c-4380-a2bb-db65512ae6de issued=30-jun-2025
+  replace options=e88 _ck=84d79f9a40 sig="60PG4580RK8FWB33T0KH70BUPBN
+  G3XF9YFW326XC08A1QH70XM4HEYDV1MEX7G1SX3WG7NKCN0F0"
+
+HOST <server_name> 78acc03c58f1 4101
+ISV foundry
+LICENSE foundry katana_i 2026.0929 16-oct-2025 1 share=h
+  min_timeout=30 start=10-sep-2025 issuer=sf
+  contract=V1:ffd826ec-a5c5-438a-b051-d56f3f01c6dc issued=10-sep-2025
+  replace options=bd9 _ck=dbd600ec88 sig="60P0453KMCXR918H2C4UJP0NBW1
+  WA7YW0KA0FS822HE13XPCHAFK2YGAUUDETCJJKS2HAQ8YGR"
+
+HOST <server_name> 78acc03c58f1 4101
+ISV foundry
+LICENSE foundry katana_r 2026.0929 16-oct-2025 1 share=h
+  min_timeout=30 start=10-sep-2025 issuer=sf
+  contract=V1:c1501d7a-5f2e-4514-8ac6-b72ad969f845 issued=10-sep-2025
+  replace options=1e9 _ck=e4d6d9e368 sig="60PG452GQMG3V44KT0YENK16DW4
+  QVAV70YNNUMR22M08C8U9CFP6UKTR8TKJ0K8NEC26TV396RM0"
+
+HOST <server_name> 78acc03c58f1 4101
+ISV foundry
+LICENSE foundry rlm_server_enable_vm 1.0 permanent 1 share=h
+  min_timeout=30 start=21-dec-2021 issuer=sf
+  contract=V1:bebddb90-ffaf-4029-a470-49a6eb5154a2 issued=21-dec-2021
+  options=4ab _ck=a9d6840e35 sig="60Q04580R06G3AAXR596G02DEV423N3T118
+  8TP0Q08AG143A1AQBBCWG15H8SRARK2RKKY2B65SX0"

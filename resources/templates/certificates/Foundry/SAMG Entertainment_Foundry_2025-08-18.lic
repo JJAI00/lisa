@@ -1,0 +1,33 @@
+HOST <server_name> 047c160db919 4101
+ISV foundry
+LICENSE foundry nuke_r 2026.0824 22-sep-2025 2 share=h min_timeout=30
+  start=17-aug-2025 issuer=sf
+  contract=V1:d7d74e4c-5a6f-47b8-8472-a914181a97fd issued=17-aug-2025
+  replace options=5a3 _ck=20d70e8903 sig="60P0450X1MDGGSXU3KX3C3G2CVK
+  5RFD4D9SKMRR22GAEJX1H48NRQV1H6YQ9MFN7ND41S9MS7R"
+
+HOST <server_name> 047c160db919 4101
+ISV foundry
+LICENSE foundry hieroplayer_i 2026.0824 22-sep-2025 1 share=h
+  min_timeout=30 start=17-aug-2025 issuer=sf
+  contract=V1:73dba756-e9a6-4828-9b67-1ec50971a64d issued=17-aug-2025
+  replace options=17c _ck=08d6f8a738 sig="60Q04580H22BRQN6CKPM1R1N8QB
+  79PR3G6WQ2G4308AG1DTKK5CHXT7WVWN9XN8CJ5UF16NR3CC0P"
+
+LICENSE foundry nuke_i 2026.0824 22-sep-2025 1 share=h min_timeout=30
+  start=17-aug-2025 issuer=sf
+  contract=V1:73dba756-e9a6-4828-9b67-1ec50971a64d issued=17-aug-2025
+  replace options=e58 _ck=17d60e8d33 sig="60PG4580GTGGBPMJHWGW4MNB6TU
+  PDWF6UXSPHJKD08A38YW2YQRNJSG8XAE1RF1E38DS0DUWVP70"
+
+LICENSE foundry nukexassist_i 2026.0824 22-sep-2025 2 share=h
+  min_timeout=30 start=17-aug-2025 issuer=sf
+  contract=V1:73dba756-e9a6-4828-9b67-1ec50971a64d issued=17-aug-2025
+  replace options=21f _ck=26d714ed31 sig="60P045083QNHMSRG4HUR8P5XV0B
+  TKNFKYT67B1022HYDS8EWGXRSC75PQK7HN0KE7XPP1DN9TM"
+
+LICENSE foundry nukex_i 2026.0824 22-sep-2025 1 share=h min_timeout=30
+  start=17-aug-2025 issuer=sf
+  contract=V1:73dba756-e9a6-4828-9b67-1ec50971a64d issued=17-aug-2025
+  replace options=b09 _ck=8fd67f7f72 sig="60P0450AQPBSG36T1Q42DXCGRM7
+  0VEHU87SV4PG22HNCRGDC0DXM2NAG4JRJ5UKCK2T20QDMY8"
